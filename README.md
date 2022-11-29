@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋 Im Surbhi Chouhan
+A passionate coder from Pune,India.
 
 <!--
 **surbhichouhan7/surbhichouhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
