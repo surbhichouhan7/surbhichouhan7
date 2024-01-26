@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Surbhi Chouhan</h1>
-<h3 align="center">A passionate coder from Pune,India</h3>
+<h3 align="center">A passionate coder from Toronto,Canada</h3>
 
 <img align="right" alt="codinggirl" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
